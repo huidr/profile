@@ -17,17 +17,17 @@
 </p>
 
 <p align="center">
-  The numbers and stats might be lacking, considering my account is relatively young.
+  The numbers and stats might be lacking, considering my account is very young.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronhuidrom" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronhuidrom" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronhuidrom&show_icons=true&theme=tokyonight&hide_border=true&no_bg=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ronhuidrom&theme=tokyonight&hide_border=true&no_bg=true" />
 </p>
 
-<h2 align="center">
+<h3 align="center">
   Trophies
-</h2>
+</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ronhuidrom&column=3&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
