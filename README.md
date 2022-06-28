@@ -1,5 +1,5 @@
 <h1 align="center">
-  Ronald's GitHub Profile
+  Ronald Huidrom
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronhuidrom" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ronhuidrom&column=3&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 </p>
 
 <details>
