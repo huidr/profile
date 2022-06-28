@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  ꯍꯨꯏꯗꯔꯣꯝ ꯔꯣꯅꯜꯗ ꯃꯉꯥꯡ  
+  ꯍꯨꯏꯗꯔꯣꯝ ꯔꯣꯅꯜꯗ ꯃꯉꯥꯡ
 </p>
 
 <p align="center">
@@ -16,31 +16,28 @@
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+<p align="center">
+  The numbers and stats might be lacking, considering my account is relatively young.
+</p>
 
-The numbers and stats might be lacking, considering my account is relatively young.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronhuidrom" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronhuidrom" />
+</p>
 
-### Contribution Graph
+<h2 align="center">
+  Trophies
+</h2>
 
-I am pretty active on GitHub and contribute regularly.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ronhuidrom" />
+</p>
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ronhuidrom&theme=minimal)
+<details>
+  <summary>Contribution Graph</summary>
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronhuidrom)
-
-### Most Used Languages
-
-Being a mathmematician, it is hardly any surprise that TeX is my most used language.
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronhuidrom)
-
-### Streak Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronhuidrom)
-
-### Trophies
-
-Hardly anything to show, really.
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ronhuidrom)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ronhuidrom&theme=minimal" />
+</p>
+  
+</details>
