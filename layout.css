@@ -24,3 +24,17 @@ body {
     font-size: 100%;
     line-height: 135%;
 }
+
+.stats {
+}
+
+@media handheld, only screen and (max-width: 767px) {
+    .stats {
+	width: 100%;
+	min-width: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+    }
+}
