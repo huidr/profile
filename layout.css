@@ -1,0 +1,206 @@
+/*
+  Simple Grid
+  Learn More - http://dallasbass.com/simple-grid-a-lightweight-responsive-css-grid/
+  Project Page - http://thisisdallas.github.com/Simple-Grid/
+  Author - Dallas Bass
+  Site - dallasbass.com
+*/
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.boxy {
+    background-color: #4a13c6;
+    padding: 10px;
+    color: white;
+}
+
+a.linkinsideboxy {
+    color: yellow;
+}
+
+#small-caps {
+  font-variant-caps: small-caps;
+}
+
+.title {
+    font-size: 200%;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+	
+a {
+    text-decoration: none;
+    color: #4a13c6;
+}
+
+a:hover {
+		background-color: #4a13c6;
+		color: white;
+	}
+
+ul {
+    /*list-style-position: inside; */
+    padding-left: 20px;
+}
+
+*, *:after, *:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-size: 110%;
+    line-height: 135%;n
+}
+
+[class*='col-'] {
+	float: left;
+	padding-right: 20px;
+}
+
+[class*='col-']:last-of-type {
+	padding-right: 0px;
+}
+
+.grid {
+	width: 100%;
+	max-width: 1400px; /* 1140 */
+	min-width: 755px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.grid:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.grid-pad {
+	padding: 0px 0px 0px 10px;
+}
+
+.grid-pad > [class*='col-']:last-of-type {
+    padding-right: 10px;
+}
+
+.push-right {
+	float: right;
+}
+
+/* Content Columns */
+
+.col-1-1 {
+	width: 100%;
+}
+
+.col-2-3, .col-8-12 {
+	width: 66.66%;
+}
+
+.col-1-2, .col-6-12 {
+	width: 50%;
+}
+
+.col-1-3, .col-4-12 {
+	width: 33.33%;
+}
+
+.col-1-4, .col-3-12 {
+	width: 25%;
+}
+
+.col-1-5 {
+	width: 20%;
+}
+
+.col-1-6, .col-2-12 {
+	width: 16.667%;
+}
+
+.col-1-7 {
+	width: 14.28%;
+}
+
+.col-1-8 {
+	width: 12.5%;
+}
+
+.col-1-9 {
+	width: 11.1%;
+}
+
+.col-1-10 {
+	width: 10%;
+}
+
+.col-1-11 {
+	width: 9.09%;
+}
+
+.col-1-12 {
+	width: 8.33%
+}
+
+/* Layout Columns */
+
+.col-11-12 {
+	width: 91.66%
+}
+
+.col-10-12 {
+	width: 83.333%;
+}
+
+.col-9-12 {
+	width: 75%;
+}
+
+.col-5-12 {
+	width: 41.66%;
+}
+
+.col-7-12 {
+	width: 58.33%
+}
+
+@media handheld, only screen and (max-width: 767px) {
+
+	.grid {
+		width: 100%;
+		min-width: 0;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+		hyphens: auto;
+		font-size: 85%;
+	}
+	
+	[class*='col-'] {
+		width: auto;
+		float: none;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-left: 10px;
+		padding-right: 10px;
+		hyphens: auto;
+	}
+
+	h1 {
+	    font-size: 150%;
+	}
+
+	.title {
+	    font-size: 150%;
+	    padding-top: 15px;
+	    padding-bottom: 4px;
+	}
+}
