@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  The numbers and stats might be lacking, considering my account is very young.
+  My GitHub database is <a href="https://ronhuidrom.github.io/profile/database.pdf">here</a>.
 </p>
 
 <p align="center">
