@@ -5,24 +5,8 @@ img {
     height: auto;
 }
 
-.boxy {
-    background-color: #4a13c6;
-    padding: 10px;
-    color: white;
-}
-
-a.linkinsideboxy {
-    color: yellow;
-}
-
 #small-caps {
   font-variant-caps: small-caps;
-}
-
-.title {
-    font-size: 200%;
-    padding-top: 40px;
-    padding-bottom: 10px;
 }
 	
 a {
@@ -33,17 +17,6 @@ a {
 a:hover {
 		background-color: #4a13c6;
 		color: white;
-	}
-
-ul {
-    /*list-style-position: inside; */
-    padding-left: 20px;
-}
-
-*, *:after, *:before {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
 }
 
 body {
