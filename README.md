@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronhuidrom&show_icons=true&theme=tokyonight&hide_border=true&no_bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronhuidrom&include_all_commits=true&count_private=true&show_icons=true&disable_animations=false&hide_border=true&bg_color=00000000&title_color=2a84ea&text_color=2a84ea&icon_color=2a84ea" width="54.47%" alt="Github stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ronhuidrom&theme=tokyonight&hide_border=true&no_bg=true" />
 </p>
 
