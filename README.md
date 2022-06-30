@@ -22,12 +22,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronhuidrom&include_all_commits=true&count_private=true&show_icons=true&disable_animations=false&hide_border=true&bg_color=00000000&title_color=2a84ea&text_color=2a84ea&icon_color=2a84ea" width="54.47%" alt="Github stats" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ronhuidrom&theme=tokyonight&hide_border=true&no_bg=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ronhuidrom&theme=gruvbox_duo&hide_border=true&no_bg=true" />
 </p>
 
 <h3 align="center">
   Trophies
-</h3>
+</h3
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ronhuidrom&column=3&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
