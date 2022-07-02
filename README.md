@@ -27,7 +27,7 @@
 
 <h3 align="center">
   Trophies
-</h3
+</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ronhuidrom&column=3&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
